@@ -5,8 +5,6 @@
 </h1>
 
 <h4 align="center">
-  <img alt="Pages" src="" />
-  <br>
   Take control of your finances!
 </h4>
 <p align="center">
