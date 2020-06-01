@@ -25,7 +25,7 @@
   <a href="#memo-license">License</a>
 </p>
 
-<img alt="IMG" src="https://github.com/Jhordy9/gofinances/blob/master/assets/0.jpg" />
+<img alt="IMG" src="https://github.com/Jhordy9/gofinances/blob/master/assets/0.jpeg" />
 
 ## :rocket: Technologies
 
